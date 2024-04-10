@@ -1,0 +1,22 @@
+.calculator {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .buttons button {
+    width: 45px;
+    height: 45px;
+    margin: 5px;
+    font-size: 20px;
+  }
+  
+  .buttons button:last-child {
+    width: 100%;
+  }
+  
